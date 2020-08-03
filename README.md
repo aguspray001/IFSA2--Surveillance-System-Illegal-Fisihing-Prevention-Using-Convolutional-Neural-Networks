@@ -1,4 +1,4 @@
-# IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks
+# IFSA2-Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks
 
 This is the visualization of my project:
 
