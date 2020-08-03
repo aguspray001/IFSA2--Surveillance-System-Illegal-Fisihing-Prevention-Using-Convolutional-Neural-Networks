@@ -7,21 +7,28 @@ Indonesia has a vast ocean with an abundance of fishes with its natural environm
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/full%20proses.png)
 
-1. in the first step, UAV will be scanning on the conservative area to capture the vessels on the ocean.
-2. and then, UAV will send the data (captured images) to the serve, and server will process the data.
-3. the results from this system are mapping area (orthoimage), ship location (based on GPS), and Hull plate number classification.
+for clearly explanation, i divide the overall system to be spesific block diagram system.
 
 ## UAV Proses
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/UAV%20PROSES.png)
 
+UAV task is bring the camera for online streaming or mapping mode, and send to the server (firebase) via online.
+
 ## Server Proses
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/SERVER%20PROSES.png)
 
-## Overall System has been conducted by simulation system before real application
+The Task of Server are:
+1. in the first step, UAV will be scanning on the conservative area to capture the vessels on the ocean.
+2. and then, UAV will send the data (captured images) to the serve, and server will process the data.
+3. the results from this system are mapping area (orthoimage), ship location (based on GPS), and Hull plate number classification.
+
+## Overall System Has Been Conducted by Simulation Before Real Application
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/simulation/Screenshot%20from%202020-06-05%2014-52-14.png)
+
+Simulation system has been conducted by using V-REP Coppelia platform, in this simulation i've add the object detection on the 3D simulation.
 
 ## Graphical User Interface of IF-SA2
 
@@ -29,9 +36,9 @@ Indonesia has a vast ocean with an abundance of fishes with its natural environm
 
 **(a) Graphical User Interface for Mapping and Detection System and (b) Graphical User Interface for Hull Plate Number Classification**
 
-**The hull number plate classification has been conducted by using the feature match method (SIFT algorithm for feature extraction and KNN (K-Nearest Neighbor) for match the feature), this is the visualization for clearly explanation:
+**The hull number plate classification has been conducted by using the feature match method (SIFT algorithm for feature extraction and KNN (K-Nearest Neighbor) for match the feature), this is the visualization for clearly explanation:**
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/feature%20match/gabung.png)
 
-If you are interested on my project you can add this on your citation and download my dataset in this link: [link to my dataset!](https://intip.in/IFSA2dataset). This project focused on the computer vision, deep learning, and machine learning method.
+*If you are interested on my project you can add this on your citation and download my dataset in this link: [link to my dataset!](https://intip.in/IFSA2dataset). This project focused on the computer vision, deep learning, and machine learning method.*
 
