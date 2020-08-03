@@ -38,7 +38,7 @@ Simulation system has been conducted by using V-REP Coppelia platform, in this s
 
 **output from maping and detection system is an interactive map that is shown below:**
 
-![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/map.png)
+![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/map.png?style=centerme)
 
 1. The red mark  : Detected vessels.
 2. The green mark: AIS data from satellite (dummy, *because AIS data is for commercial uses)*.
