@@ -19,7 +19,7 @@ Indonesia has a vast ocean with an abundance of fishes with its natural environm
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/SERVER%20PROSES.png)
 
-**This is my final project graphical user interface visualization:**
+## Graphical User Interface of IF-SA2
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/GUI/gambungan.png)
 
