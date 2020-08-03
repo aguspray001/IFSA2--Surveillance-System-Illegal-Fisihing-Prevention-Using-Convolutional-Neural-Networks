@@ -36,7 +36,7 @@ Simulation system has been conducted by using V-REP Coppelia platform, in this s
 
 **(a) Graphical User Interface for Mapping and Detection System and (b) Graphical User Interface for Hull Plate Number Classification**
 
-**The hull number plate classification has been conducted by using the feature match method (SIFT algorithm for feature extraction and KNN (K-Nearest Neighbor) for match the feature), this is the visualization for clearly explanation:**
+**The hull number plate classification has been conducted by using the feature match method (SIFT (Scale-Invariant Feature Transform) algorithm for feature extraction and KNN (K-Nearest Neighbor) for match the feature), this is the visualization for clearly explanation:**
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/feature%20match/gabung.png)
 
