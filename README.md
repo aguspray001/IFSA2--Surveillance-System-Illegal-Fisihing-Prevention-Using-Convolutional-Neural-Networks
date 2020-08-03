@@ -19,7 +19,7 @@ UAV task is bring the camera for online streaming or mapping mode, and send to t
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/SERVER%20PROSES.png)
 
-The Task of Server are:
+The server tasks:
 1. in the first step, UAV will be scanning on the conservative area to capture the vessels on the ocean.
 2. and then, UAV will send the data (captured images) to the serve, and server will process the data.
 3. the results from this system are mapping area (orthoimage), ship location (based on GPS), and Hull plate number classification.
