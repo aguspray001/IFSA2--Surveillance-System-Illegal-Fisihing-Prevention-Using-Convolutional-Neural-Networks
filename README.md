@@ -19,10 +19,19 @@ Indonesia has a vast ocean with an abundance of fishes with its natural environm
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/SERVER%20PROSES.png)
 
+## Overall System has been conducted by simulation system before real application
+
+![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/simulation/Screenshot%20from%202020-06-05%2014-52-14.png)
+
 ## Graphical User Interface of IF-SA2
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/GUI/gambungan.png)
 
 **(a) Graphical User Interface for Mapping and Detection System and (b) Graphical User Interface for Hull Plate Number Classification**
 
+**The hull number plate classification has been conducted by using the feature match method (SIFT algorithm for feature extraction and KNN (K-Nearest Neighbor) for match the feature), this is the visualization for clearly explanation:
+
+![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/feature%20match/gabung.png)
+
 If you are interested on my project you can add this on your citation and download my dataset in this link: [link to my dataset!](https://intip.in/IFSA2dataset). This project focused on the computer vision, deep learning, and machine learning method.
+
