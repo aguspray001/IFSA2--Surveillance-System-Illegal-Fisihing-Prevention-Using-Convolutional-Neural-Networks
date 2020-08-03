@@ -36,6 +36,12 @@ Simulation system has been conducted by using V-REP Coppelia platform, in this s
 
 **(a) Graphical User Interface for Mapping and Detection System and (b) Graphical User Interface for Hull Plate Number Classification**
 
+**output from maping and detection system is an interactive map that is shown below:**
+
+![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/map.png)
+
+1. The red mark  : Detected vessels.
+2. The green mark: AIS data from satellite (dummy, *because AIS data is for commercial uses)*.
 **The hull number plate classification has been conducted by using the feature match method (SIFT (Scale-Invariant Feature Transform) algorithm for feature extraction and KNN (K-Nearest Neighbor) for match the feature), this is the visualization for clearly explanation:**
 
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/feature%20match/gabung.png)
