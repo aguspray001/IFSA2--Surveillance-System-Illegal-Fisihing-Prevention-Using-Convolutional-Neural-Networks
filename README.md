@@ -8,7 +8,7 @@ Indonesia has a vast ocean with an abundance of fishes with its natural environm
 
 ## Overall System of IF-SA2 (Illegal Fishing Smart Amphibious Aircraft): Surveillance System Illegal Fisihing Prevention Using Convolutional Neural Networks
 
-![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/full%20proses.png)
+![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/full%20process.png)
 
 for clearly explanation, i divide the overall system to be spesific block diagram system.
 
