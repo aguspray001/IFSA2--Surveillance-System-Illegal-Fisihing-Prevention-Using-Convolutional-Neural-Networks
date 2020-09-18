@@ -48,3 +48,5 @@ Simulation system has been conducted by using V-REP Coppelia platform, in this s
 ![alt text](https://github.com/aguspray001/IFSA2--Surveillance-System-Illegal-Fisihing-Prevention-Using-Convolutional-Neural-Networks/blob/master/Result/feature%20match/gabung.png)
 
 *If you are interested on my project you can add this on your citation and download my dataset in this link: [link to my dataset!](https://intip.in/IFSA2dataset). This project focused on the computer vision, deep learning, and machine learning method.*
+
+[News about this project!](https://cyberthreat.id/read/2348/Agus-Prayudi-Kembangkan-Sistem-Pengawasan-Illegal-Fishing)
